@@ -13,8 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![walterhoson's github stats](https://github-readme-stats.vercel.app/api?username=walterhoson&show_icons=true&theme=radical)
 -->
 
 
-[![walterhoson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=walterhoson)](https://github.com/anuraghazra/github-readme-stats)
+
+[![walterhoson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=walterhoson&show_icons=true)](https://github.com/walterhoson)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walterhoson&show_icons=true)
+
+
