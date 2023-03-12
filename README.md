@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-
 [![walterhoson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=walterhoson&show_icons=true)](https://github.com/walterhoson)
 
 
